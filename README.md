@@ -1,4 +1,4 @@
-## toast_ui.blazor_calendar
+## toast_ui.blazor_calendar V2
 A Toast UI Calendar Wrapper For Blazor  
 Drag-And-Drop Events, Tasks, and Scheduling  
 
